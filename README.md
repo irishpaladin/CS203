@@ -7,14 +7,14 @@ source: http://www.beginnersheap.com/install-netbeans-jdk/
 1. Before you install NetBeans you must have the latest version of Java installed on your computer; Java mostly updates itself automatically as a new update comes.
 To check whether Java is installed on your computer
 
-1. a. Open Command Prompt from Start Menu -> CMD or through
-run dialog box and writing CMD into the dropdown text box.
-Type java -version in CMD and press Enter key, if CMD (command prompt) doesn’t recognize the command. It means that you should install Java or JDK (NetBeans Included).
+    1. a. Open Command Prompt from Start Menu -> CMD or through
+    run dialog box and writing CMD into the dropdown text box.
+    Type java -version in CMD and press Enter key, if CMD (command prompt) doesn’t recognize the command. It means that you should install Java or JDK (NetBeans Included).
 
 ![alt text](https://i1.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/java-version-check.jpg)
 _Java version check_
 
-1. b. You can install Java alone. To download Java, select from the versions in the link below and download the java that is compatible with your OS
+    1. b. You can install Java alone. To download Java, select from the versions in the link below and download the java that is compatible with your OS
 
 https://java.com/en/download/manual.jsp
 
