@@ -14,24 +14,25 @@ Type java -version in CMD and press Enter key, if CMD (command prompt) doesn’t
 ![alt text](https://i1.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/java-version-check.jpg)
 _Java version check_
 
-1. b. You can install Java alone, to download Java, separately select from the versions in the link and download it according to your OS
+1. b. You can install Java alone. To download Java, select from the versions in the link below and download the java that is compatible with your OS
 
 https://java.com/en/download/manual.jsp
 
-### else if
 
-you already have Java installed on your machine
+
+### else if you already have Java installed on your machine
+
 
 ## Download NetBeans and JDK (Java Development Kit)
 
 1. To install Java Development Kit, download JDK (Java Development Kit) from Oracle servers click on the links given below as per your requirements
 This will automatically start downloading JDK (Java SE Development Kit)
-clicking on the links below means that you are accepting Oracle Binary Code License Agreement for Java SE.
+(clicking on the links below means that you are accepting Oracle Binary Code License Agreement for Java SE.)
 
 2. download JDK 8u73 with NetBeans 8.1
 (Note: you may need to set up Environmental Variables, by opening My Computer/This PC system properties.
 Find and click “Advanced system setting” in options list on left side, in “Advanced” tab click “Environment Variables.”
-The button on the bottom. In System Variables find “Path” in variables list and click edit, put “;” at the end of variable values,
+The button on the bottom, in System Variables find “Path” in variables list and click edit, put “;” at the end of variable values,
 “C:\ProgramData\Oracle\Java\javapath;” copy and paste the path you find from the address bar. If you still face problems with java, find out JRE and JDK
 bin directory copy and paste path of both bin directories that are mostly “C:\Program Files\Java\jdk1.8.0_60\bin;” and
 “C:\Program Files\Java\jre1.8.0_60\bin;” now path of your JDK and JRE is known by your computer’s “Environmental Variables”)
