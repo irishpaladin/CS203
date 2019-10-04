@@ -13,6 +13,7 @@ Type java -version in CMD and press Enter key, if CMD (command prompt) doesn’t
 _Java version check_
 
 1. b. You can install Java alone, to download Java, separately select from the versions in the link and download it according to your OS
+
 https://java.com/en/download/manual.jsp
 
 ### else if
@@ -56,32 +57,43 @@ http://www.oracle.com/technetwork/java/javase/terms/license/index.html
 It will load the files needed for installation
 
 ![alt text](https://i2.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/loading-java-files.jpg)
+
 _loading Java files_
 
 1. After it loads Java files, a welcome screen will appear to install NetBeans JDK (Java Development Kit).
 
 ![alt text](https://i2.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/welcome-screen-to-install-jdk.jpg)
+
 _Welcome screen to install NetBeans JDK_
 
 1. When you click next, the installer will ask for the directory to save JDK (Java Development Kit).
 
 ![alt text](https://i2.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/jdk-install-direcory-install-Directory.jpg)
+
 _JDK installation directory_
 
 1. It’s better to keep the default directory i.e. C:\Program Files\jdk1.8, Click next to move forward. This will ask for the NetBeans install directory. You can change it by clicking the browse button.
+
 ![alt text](https://i1.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/jdk-folder-select-2.jpg)
+
 _Netbeans installation directory_
 
 1. When the folder selection process for NetBeans is complete click Next button, a dialog box will appear asking to enable or disable auto update feature, check the check box if you want NetBeans to be automatically updated whenever an update is present.
+
 ![alt text](https://i2.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/check-uncheck-auto-upd-3.jpg)
+
 _Check unchecks auto update before install_
 
 1. When everything is set up, click Install button to start the installation process in the mentioned locations, with selected features. A dialog box will appear showing the installation status.
+
 ![alt text](https://i0.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/installing-nb.jpg)
+
 _Installing Netbeans_
 
 1. After the installation process is completed successfully, the setup will ask for anonymous data usage to make the NetBeans experience much better. Click Finish to complete Installation Process.
 
 ![alt text](https://i2.wp.com/www.beginnersheap.com/wp-content/uploads/2016/03/complete-install.jpg?resize=603,504)
+
 _Installation Completed_
+
 You have successfully installed NetBeans on your computer.  You can now create your first project in NetBeans.
