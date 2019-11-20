@@ -1,11 +1,13 @@
 /**
  * Program that prompts the user to enter a file name,
  * reads the lines from the file, and replaces the line
- * numbers in the file with appropriate numbers of spaces
+ * numbers in the file with appropriate number of spaces
  *
  * @course CS203
- * @author Stephanie Irish Paladin 200413341 Assignment 3 last modified: 11/02
- * 2pm
+ * @author Stephanie Irish Paladin
+ * 200413341
+ * Assignment 3
+ * last modified: 11/19 11pm
  */
 package Question1;
 
