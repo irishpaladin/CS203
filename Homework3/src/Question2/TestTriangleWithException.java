@@ -29,5 +29,5 @@ public class TestTriangleWithException {
         } catch (IllegalTriangleException e) {
             System.out.println(e.getMessage());
         }
-    }
+    }     
 }
